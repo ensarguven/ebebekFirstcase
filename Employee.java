@@ -78,6 +78,7 @@ public class Employee {
 
         System.out.println("Adi:"+name);
         System.out.println("Maas:"+salary);
+        System.out.println("Calisma Saati:"+workHours);
         System.out.println("Baslangic Yili:"+hireYear);
         System.out.println("Vergi:"+tax()+" TL");
         System.out.println("Bonus:"+bonus()+" TL");
