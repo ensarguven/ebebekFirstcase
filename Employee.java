@@ -1,3 +1,12 @@
+import java.util.*;
+
+public class Main {
+    public static void main(String[] args) {
+        Employee e = new Employee("Ensar",40000,60,2000);
+        e.toString();
+    }
+}
+
 public class Employee {
     String name;
     double salary;
